@@ -1,4 +1,4 @@
-# 
+# Léger Atom scripts pour Mac OS | Mis à jour Atom scripts pour PC Windows. Avec support multi-langages et services de rapports — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
